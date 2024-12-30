@@ -26,6 +26,11 @@ body{
     color: gray;
 }
 
+.footer--main{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
 .link--cta{
     font-size: 16px;
     color: aquamarine;
